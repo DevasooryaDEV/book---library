@@ -19,8 +19,8 @@ A React app showcasing a collection of books using reusable components, built wi
 - JavaScript ES6+
 
 ## Links
-- **GitHub Repository:** [Your GitHub Link Here]
-- **Live Website:** [Your Deployment Link Here]
+- **GitHub Repository:** https://github.com/DevasooryaDEV/book---library.git
+- **Live Website:** https://comforting-selkie-489666.netlify.app/
 
 ## Run Locally
 1. Clone the repository
